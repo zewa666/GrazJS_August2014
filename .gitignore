@@ -63,3 +63,5 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+require_karma_jasmine.sublime-project
+require_karma_jasmine.sublime-workspace
